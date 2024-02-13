@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SebasRaul2503
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently studying at National University of Santa
-- 💞️ I’m looking to collaborate on machine learning project
+- 👀 I’m interested in Machine Learning, AI, and Neuronal Networks
+- 🌱 I’m currently studying Systems Enginering at National University of Santa and learning japanese
+- 💞️ I’m looking to collaborate on a Machine Learning Project
 - 📫 How to reach me: seracava2503@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him, if you speak Spanish you can just say "oe"
 - ⚡ Fun fact: I'm kinda bad at maths
