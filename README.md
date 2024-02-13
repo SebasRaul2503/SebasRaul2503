@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @SebasRaul2503
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently studying at National University of Santa
+- 💞️ I’m looking to collaborate on machine learning project
+- 📫 How to reach me: seracava2503@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm kinda bad at maths
