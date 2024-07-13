@@ -2,6 +2,6 @@
 - 👀 I’m interested in Machine Learning, AI, and Neuronal Networks
 - 🌱 I’m currently studying Systems Enginering at National University of Santa and learning japanese
 - 💞️ I’m looking to collaborate on a Machine Learning Project
-- 📫 How to reach me: seracava2503@gmail.com
-- 😄 Pronouns: he/him, if you speak Spanish you can just say "oe"
+- 📫 Mail: seracava2503@gmail.com
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm kinda bad at maths
