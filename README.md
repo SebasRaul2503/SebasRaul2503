@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SebasRaul2503
 - 👀 I’m interested in FullStack Development and AI
-- 🌱 I’m currently studying Systems Enginering at National University of Santa and learning japanese
+- 🌱 I’m currently studying Systems Enginering at National University of Santa
+- 😿 Begginer at everything
 - 💞️ I’m looking to collaborate on a Machine Learning Project
 - 📫 Mail: seracava2503@gmail.com
 - 😄 Pronouns: he/him.
