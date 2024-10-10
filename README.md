@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SebasRaul2503
 - 👀 I’m interested in FullStack Development and AI
 - 🌱 I’m currently studying Systems Enginering at National University of Santa
-- 😿 Begginer at everything
+- 😿 Begginer at everything, expert in nothing
 - 📫 Mail: seracava2503@gmail.com
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm kinda bad at maths
