@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SebasRaul2503
 - 👀 I’m interested in FullStack Development and AI
-- 😿 Begginer at everything, expert in nothing
 - 📫 Mail: seracava2503@gmail.com
 - 😄 Pronouns: he/him.
 - <a href="https://open.spotify.com/playlist/5tZIlJFpxLTJkZjBfDyww6">Spotify Playlist</a>
